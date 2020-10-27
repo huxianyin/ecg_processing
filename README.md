@@ -2,6 +2,8 @@
 biopluxで取得した心電データを処理するパッケージの使い方に関するデモ
 
 ### package
+
+ecg_processing
 ├ sample_data
 │   └ biopluxデータ
 ├ 使い方.ipynb                    　　... デモ用のmainコード
