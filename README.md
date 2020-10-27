@@ -3,9 +3,12 @@ biopluxで取得した心電データを処理するパッケージの使い方�
 
 ### package
  - utils.py      　　　　　　　　　   データをファイルから読み込み
- - feature_extraction.py 　　　　特徴量抽出
+ - feature_extraction.py 　　　　　　特徴量抽出
 
-### Setting
+ - sample_data/                  サンプルデータ
+ - 使い方.ipynb                   デモ
+
+# Setting
 
 - python version : 3.6.1
 
@@ -15,6 +18,6 @@ biopluxで取得した心電データを処理するパッケージの使い方�
 ```sh
 pip install -r requirements.txt
 jupyter notebook
-'''
+```
 
 使い方.ipynbを開く
