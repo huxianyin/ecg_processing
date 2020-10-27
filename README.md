@@ -12,6 +12,9 @@ biopluxで取得した心電データを処理するパッケージの使い方�
 
 # Run
 
-- pip install -r requirements.txt
-- jupyter notebook
-- 使い方.ipynbを開く
+```sh
+pip install -r requirements.txt
+jupyter notebook
+'''
+
+使い方.ipynbを開く
