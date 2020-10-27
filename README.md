@@ -6,9 +6,9 @@ biopluxで取得した心電データを処理するパッケージの使い方�
 ecg_processing
 ├ sample_data
 │   └ biopluxデータ
-├ 使い方.ipynb                    　　... デモ用のmainコード
-├ feature_extraction.py           ... データ処理，特徴量抽出関数群
-└ utils.py                                ... 汎用関数群（データの読込み）
+├ 使い方.ipynb                    ... デモ用のmainコード
+├ feature_extraction.py          ... データ処理，特徴量抽出関数群
+└ utils.py                       ... 汎用関数群（データの読込み）
 ```
 
 # Setting
